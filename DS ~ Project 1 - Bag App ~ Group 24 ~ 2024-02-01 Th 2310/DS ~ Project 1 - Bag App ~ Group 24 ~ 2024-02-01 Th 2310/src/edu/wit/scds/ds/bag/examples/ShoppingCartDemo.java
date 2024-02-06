@@ -116,7 +116,7 @@ public class ShoppingCartDemo
 
     /**
      * example of using a basic enum - the ordinal() for each instance is its position (0-based) in
-     * the enum
+     * the enum 
      * <p>
      * if you wish to use this construct in your solution, move it out of here into a separate file
      * (GroceryItemFieldsId.java) - don't forget to include the appropriate comments!

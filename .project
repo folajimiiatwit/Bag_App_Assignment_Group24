@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>DS-Project-1---Bag-App-Group-24-2024-02-01-Th-2310</name>
@@ -15,3 +16,22 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DS-Project-1---Bag-App-Group-24-2024-02-01-Th-2310</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
+>>>>>>> branch 'main' of https://github.com/folajimiiatwit/DS-Project-1---Bag-App-Group-24-2024-02-01-Th-2310.git
